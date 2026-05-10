@@ -1,91 +1,88 @@
 # Mall Customer Segmentation Analysis - Unsupervised Machine Learning Project
 
-Este projeto aplica técnicas de *unsupervised machine learning* para segmentar clientes de um centro comercial, com o objetivo de identificar padrões de comportamento, perfis de consumo e oportunidades de negócio.
-
-A análise combina EDA, clustering, validação de modelos e interpretacção de segementos para gerar insights.
+This project applies *unsupervised machine learning techniques* to target clients of a specific mall. The main goal is to identify behavioral patterns, consumer profiles and business oportunities.
+This analysis combines EDA, clustering, modelling validation and interpretability of clusters to generate insights. 
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
-### 🎯 Objectivos do Projeto
+### 🎯 Objectives of the project
 
-Segmentar clientes com base em:
-- Idade
-- Rendimento Anual
-- Score de Gastos
+Group clients based on:
+- Age
+- Annual Income
+- Spending Score
 
-De forma a:
-- Identificar grupos com comportamentos semelhantes
-- Apoiar decisões de marketing
-- Descobrir oportunidades de crescimento
-- Personalizar campanhas e experiências
+In order to:
+- Identify groups with similar behaviors
+- Support marketing decisions
+- Find growth opportunities 
+- Deliver personalized campaigns and experiences
 
-### 📊 Dataset e insights da EDA
+### 📊 Dataset and EDA insights
 
-- Mall_customers dataset extraído do Kaggle.
-- O dataset contem 200 clientes, entre os 18 e 70 anos, com rendimentos entre 15k e 137k.
-- 56% são mulheres, e esta proporção mantém se em quase todos os clusters.
-- Existe um paradoxo:
-    - Rendimento elevado não implica gastos elevados, especialmente em clientes mais velhos e homens.
-- A distribuição de género não é um fator diferenciador forte.
+- Mall_customers dataset from Kaggle.
+- The dataset contains 200 clients, between the ages of 18 and 70, with annual incomes varying between 15k and 137k.
+- 56% are females, and this proportion is the same in almost all clusters. 
+- There's one paradox:
+    - High income does not imply high spending scores, especially in older clients and males.
+- Gender distribution is not a strong differenciated factor.
 
-### 🤖 Modelo e Validação
+### 🤖 Modelling and Validation
 
-Foram testados três algoritmos:
+Three algorithms were tested:
 - K-Means
 - Hierarchical Clustering
 - Gaussian Mixture Models
 
-A comparação foi feita com:
+The comparing was made using:
 - Silhouette Score
 - Davies-Bouldin Index
 - Calinski-Harabasz Score
 
 ### 🧩 Results
 
-**Perfis dos Clientes:**
+**Client profile:**
 
 🔴 Cluster 0 — Young & Impulsive
-- Idade: 18–25
-- Rendimento: baixo
-- Spending Score: alto
+- Age: 18–25
+- Income: low
+- Spending Score: high
 
-**Insight:** gastam muito apesar de terem pouco rendimento.
+**Insight:** high spending despite low income.
 
 🔵 Cluster 1 — Premium Customers
-- Idade: 26–35
-- Rendimento: alto
-- Spending Score: muito alto
+- Age: 26–35
+- Income: high
+- Spending Score: very high
 
-**Insight:** o segmento mais valioso.
+**Insight:** the most valuable segment.
 
 🟢 Cluster 2 — Budget Conscious
-- Idade: 46–55
-- Rendimento: baixo
-- Spending Score: baixo
+- Age: 46–55
+- Income: low
+- Spending Score: low
 
-**Insight:** limitados financeiramente.
+**Insight:** financially limited.
 
 🟠 Cluster 3 — Untapped Potential
-- Idade: 36–45
-- Rendimento: alto
-- Spending Score: baixo
+- Age: 36–45
+- Income: high
+- Spending Score: low
 
-**Insight:** a maior oportunidade do shopping.
+**Insight:** mall's biggest oportunity.
 
 🟣 Cluster 4 — Mature & Balanced
-- Idade: 46–70
-- Rendimento: médio
-- Spending Score: moderado
+- Age: 46–70
+- Income: moderate
+- Spending Score: moderate
 
-**Insight:** estáveis e previsíveis.
+**Insight:** stable and predictable.
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
 ### 💡 Recomendação de Negócio
-O segmento Untapped Potential é o mais estratégico:
-- têm rendimento comparável aos Premium
-- mas gastam como Budget Conscious
-- estão completamente subaproveitados
+Cluster Untapped Potential is the most strategic: 
+- Annual Income similar to Premium
+- but Spending Scores similiar to Budget Conscious
  
-Investir em experiências premium, campanhas personalizadas e incentivos de fidelização para aumentar o Spending Score deste grupo — impacto direto na receita do shopping.
-
+Invest in premium experiences, personalized campaigns and fidelity incentives to increase the Spending Scores of this group.
