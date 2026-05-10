@@ -49,35 +49,35 @@ A comparação foi feita com:
 - Rendimento: baixo
 - Spending Score: alto
 
-Insight: gastam muito apesar de terem pouco rendimento.
+**Insight:** gastam muito apesar de terem pouco rendimento.
 
 🔵 Cluster 1 — Premium Customers
 - Idade: 26–35
 - Rendimento: alto
 - Spending Score: muito alto
 
-Insight: o segmento mais valioso.
+**Insight:** o segmento mais valioso.
 
 🟢 Cluster 2 — Budget Conscious
 - Idade: 46–55
 - Rendimento: baixo
 - Spending Score: baixo
 
-Insight: limitados financeiramente.
+**Insight:** limitados financeiramente.
 
 🟠 Cluster 3 — Untapped Potential
 - Idade: 36–45
 - Rendimento: alto
 - Spending Score: baixo
 
-Insight: a maior oportunidade do shopping.
+**Insight:** a maior oportunidade do shopping.
 
 🟣 Cluster 4 — Mature & Balanced
 - Idade: 46–70
 - Rendimento: médio
 - Spending Score: moderado
 
-Insight: estáveis e previsíveis.
+**Insight:** estáveis e previsíveis.
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
