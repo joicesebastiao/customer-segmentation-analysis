@@ -42,7 +42,7 @@ A comparação foi feita com:
 
 ### 🧩 Results
 
-Perfis dos Segmentos:
+**Perfis dos Clientes:**
 
 🔴 Cluster 0 — Young & Impulsive
 - Idade: 18–25
