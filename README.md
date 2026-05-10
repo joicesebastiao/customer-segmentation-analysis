@@ -4,6 +4,8 @@ Este projeto aplica técnicas de *unsupervised machine learning* para segmentar 
 
 A análise combina EDA, clustering, validação de modelos e interpretacção de segementos para gerar insights.
 
+-------------------------------------------------------------------------------------------------------------------------------------
+
 ### 🎯 Objectivos do Projeto
 
 Segmentar clientes com base em:
@@ -23,7 +25,7 @@ De forma a:
 - O dataset contem 200 clientes, entre os 18 e 70 anos, com rendimentos entre 15k e 137k.
 - 56% são mulheres, e esta proporção mantém se em quase todos os clusters.
 - Existe um paradoxo:
-    - Rendimento elevada não implica gastos elevados, especialmente em clientes mais velhos e homens.
+    - Rendimento elevado não implica gastos elevados, especialmente em clientes mais velhos e homens.
 - A distribuição de género não é um fator diferenciador forte.
 
 ### 🤖 Modelo e Validação
@@ -72,19 +74,13 @@ Rendimento: médio
 Spending Score: moderado
 Insight: estáveis e previsíveis.
 
+-------------------------------------------------------------------------------------------------------------------------------------
+
 ### 💡 Recomendação de Negócio
 O segmento Untapped Potential é o mais estratégico:
 - têm rendimento comparável aos Premium
 - mas gastam como Budget Conscious
 - estão completamente subaproveitados
-
-🎯 Recomendação:  
+ 
 Investir em experiências premium, campanhas personalizadas e incentivos de fidelização para aumentar o Spending Score deste grupo — impacto direto na receita do shopping.
 
-customer-segmentation-analysis/
-│
-├── data/                # Dataset original
-├── notebooks/           # Notebook principal com EDA + modelação
-├── src/                 # Scripts auxiliares (se aplicável)
-├── README.md            # Este ficheiro
-└── outputs/             # Gráficos e visualizações
