@@ -20,7 +20,7 @@ In order to:
 
 ### 📊 Dataset and EDA insights
 
-- Mall_customers dataset from Kaggle.
+- Mall_Customers dataset from Kaggle.
 - The dataset contains 200 clients, between the ages of 18 and 70, with annual incomes varying between 15k and 137k.
 - 56% are females, and this proportion is the same in almost all clusters. 
 - There's one paradox:
@@ -34,7 +34,7 @@ Three algorithms were tested:
 - Hierarchical Clustering
 - Gaussian Mixture Models
 
-The comparing was made using:
+The comparison was made using:
 - Silhouette Score
 - Davies-Bouldin Index
 - Calinski-Harabasz Score
@@ -43,35 +43,35 @@ The comparing was made using:
 
 **Client profile:**
 
-🔴 Cluster 0 — Young & Impulsive
+🔴 *Cluster 0 — Young & Impulsive*
 - Age: 18–25
 - Income: low
 - Spending Score: high
 
 **Insight:** high spending despite low income.
 
-🔵 Cluster 1 — Premium Customers
+🔵 *Cluster 1 — Premium Customers*
 - Age: 26–35
 - Income: high
 - Spending Score: very high
 
 **Insight:** the most valuable segment.
 
-🟢 Cluster 2 — Budget Conscious
+🟢 *Cluster 2 — Budget Conscious*
 - Age: 46–55
 - Income: low
 - Spending Score: low
 
 **Insight:** financially limited.
 
-🟠 Cluster 3 — Untapped Potential
+🟠 *Cluster 3 — Untapped Potential*
 - Age: 36–45
 - Income: high
 - Spending Score: low
 
 **Insight:** mall's biggest oportunity.
 
-🟣 Cluster 4 — Mature & Balanced
+🟣 *Cluster 4 — Mature & Balanced*
 - Age: 46–70
 - Income: moderate
 - Spending Score: moderate
@@ -80,8 +80,8 @@ The comparing was made using:
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
-### 💡 Recomendação de Negócio
-Cluster Untapped Potential is the most strategic: 
+### 💡 Business Recomendation
+*Cluster Untapped Potential* is the most strategic: 
 - Annual Income similar to Premium
 - but Spending Scores similiar to Budget Conscious
  
