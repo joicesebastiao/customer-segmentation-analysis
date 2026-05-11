@@ -50,12 +50,14 @@ The comparison was made using:
 
 **Insight:** high spending despite low income.
 
+
 🔵 *Cluster 1 — Premium Customers*
 - Age: 26–35
 - Income: high
 - Spending Score: very high
 
 **Insight:** the most valuable segment.
+
 
 🟢 *Cluster 2 — Budget Conscious*
 - Age: 46–55
@@ -64,12 +66,14 @@ The comparison was made using:
 
 **Insight:** financially limited.
 
+
 🟠 *Cluster 3 — Untapped Potential*
 - Age: 36–45
 - Income: high
 - Spending Score: low
 
 **Insight:** mall's biggest oportunity.
+
 
 🟣 *Cluster 4 — Mature & Balanced*
 - Age: 46–70
