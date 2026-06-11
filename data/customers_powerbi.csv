@@ -1,0 +1,199 @@
+﻿Age,Annual_Income_k,Spending_Score,Gender,AgeGroup,IncomeGroup,SpendingGroup,Cluster,Cluster_Name,Income_Spending_Ratio,Priority
+19,15,39,Male,18-25,Low,Low,0,Young & Impulsive,2.6,3 - Média-Alta
+21,15,81,Male,18-25,Low,Very High,0,Young & Impulsive,5.4,3 - Média-Alta
+20,16,6,Female,18-25,Low,Very Low,2,Budget Conscious,0.375,5 - Baixa-Média
+23,16,77,Female,18-25,Low,Very High,0,Young & Impulsive,4.8125,3 - Média-Alta
+31,17,40,Female,26-35,Low,Low,0,Young & Impulsive,2.3529411764705883,3 - Média-Alta
+22,17,76,Female,18-25,Low,Very High,0,Young & Impulsive,4.470588235294118,3 - Média-Alta
+35,18,6,Female,26-35,Low,Very Low,2,Budget Conscious,0.3333333333333333,5 - Baixa-Média
+23,18,94,Female,18-25,Low,Very High,0,Young & Impulsive,5.222222222222222,3 - Média-Alta
+64,19,3,Male,56-70,Low,Very Low,2,Budget Conscious,0.15789473684210525,5 - Baixa-Média
+30,19,72,Female,26-35,Low,High,0,Young & Impulsive,3.789473684210526,3 - Média-Alta
+67,19,14,Male,56-70,Low,Very Low,2,Budget Conscious,0.7368421052631579,5 - Baixa-Média
+35,19,99,Female,26-35,Low,Very High,0,Young & Impulsive,5.2105263157894735,3 - Média-Alta
+58,20,15,Female,56-70,Low,Very Low,2,Budget Conscious,0.75,5 - Baixa-Média
+24,20,77,Female,18-25,Low,Very High,0,Young & Impulsive,3.85,3 - Média-Alta
+37,20,13,Male,36-45,Low,Very Low,2,Budget Conscious,0.65,5 - Baixa-Média
+22,20,79,Male,18-25,Low,Very High,0,Young & Impulsive,3.95,3 - Média-Alta
+35,21,35,Female,26-35,Low,Low,2,Budget Conscious,1.6666666666666667,5 - Baixa-Média
+20,21,66,Male,18-25,Low,High,0,Young & Impulsive,3.142857142857143,3 - Média-Alta
+52,23,29,Male,46-55,Low,Low,2,Budget Conscious,1.2608695652173914,5 - Baixa-Média
+35,23,98,Female,26-35,Low,Very High,0,Young & Impulsive,4.260869565217392,3 - Média-Alta
+35,24,35,Male,26-35,Low,Low,2,Budget Conscious,1.4583333333333333,5 - Baixa-Média
+25,24,73,Male,18-25,Low,High,0,Young & Impulsive,3.0416666666666665,3 - Média-Alta
+46,25,5,Female,46-55,Low,Very Low,2,Budget Conscious,0.2,5 - Baixa-Média
+31,25,73,Male,26-35,Low,High,0,Young & Impulsive,2.92,3 - Média-Alta
+54,28,14,Female,46-55,Low,Very Low,2,Budget Conscious,0.5,5 - Baixa-Média
+29,28,82,Male,26-35,Low,Very High,0,Young & Impulsive,2.9285714285714284,3 - Média-Alta
+45,28,32,Female,36-45,Low,Low,2,Budget Conscious,1.1428571428571428,5 - Baixa-Média
+35,28,61,Male,26-35,Low,High,0,Young & Impulsive,2.1785714285714284,3 - Média-Alta
+40,29,31,Female,36-45,Low,Low,2,Budget Conscious,1.0689655172413792,5 - Baixa-Média
+23,29,87,Female,18-25,Low,Very High,0,Young & Impulsive,3.0,3 - Média-Alta
+60,30,4,Male,56-70,Low,Very Low,2,Budget Conscious,0.13333333333333333,5 - Baixa-Média
+21,30,73,Female,18-25,Low,High,0,Young & Impulsive,2.433333333333333,3 - Média-Alta
+53,33,4,Male,46-55,Low,Very Low,2,Budget Conscious,0.12121212121212122,5 - Baixa-Média
+18,33,92,Male,18-25,Low,Very High,0,Young & Impulsive,2.787878787878788,3 - Média-Alta
+49,33,14,Female,46-55,Low,Very Low,2,Budget Conscious,0.42424242424242425,5 - Baixa-Média
+21,33,81,Female,18-25,Low,Very High,0,Young & Impulsive,2.4545454545454546,3 - Média-Alta
+42,34,17,Female,36-45,Low,Very Low,2,Budget Conscious,0.5,5 - Baixa-Média
+30,34,73,Female,26-35,Low,High,0,Young & Impulsive,2.1470588235294117,3 - Média-Alta
+36,37,26,Female,36-45,Low,Low,2,Budget Conscious,0.7027027027027027,5 - Baixa-Média
+20,37,75,Female,18-25,Low,High,0,Young & Impulsive,2.027027027027027,3 - Média-Alta
+65,38,35,Female,56-70,Low,Low,4,Mature & Balanced,0.9210526315789473,4 - Média
+24,38,92,Male,18-25,Low,Very High,0,Young & Impulsive,2.4210526315789473,3 - Média-Alta
+48,39,36,Male,46-55,Low,Low,2,Budget Conscious,0.9230769230769231,5 - Baixa-Média
+31,39,61,Female,26-35,Low,High,0,Young & Impulsive,1.564102564102564,3 - Média-Alta
+49,39,28,Female,46-55,Low,Low,2,Budget Conscious,0.717948717948718,5 - Baixa-Média
+24,39,65,Female,18-25,Low,High,0,Young & Impulsive,1.6666666666666667,3 - Média-Alta
+50,40,55,Female,46-55,Low,High,4,Mature & Balanced,1.375,4 - Média
+27,40,47,Female,26-35,Low,Low,0,Young & Impulsive,1.175,3 - Média-Alta
+29,40,42,Female,26-35,Low,Low,0,Young & Impulsive,1.05,3 - Média-Alta
+31,40,42,Female,26-35,Low,Low,0,Young & Impulsive,1.05,3 - Média-Alta
+49,42,52,Female,46-55,Medium,High,4,Mature & Balanced,1.2380952380952381,4 - Média
+33,42,60,Male,26-35,Medium,High,0,Young & Impulsive,1.4285714285714286,3 - Média-Alta
+31,43,54,Female,26-35,Medium,High,0,Young & Impulsive,1.255813953488372,3 - Média-Alta
+59,43,60,Male,56-70,Medium,High,4,Mature & Balanced,1.3953488372093024,4 - Média
+50,43,45,Female,46-55,Medium,Low,4,Mature & Balanced,1.0465116279069768,4 - Média
+47,43,41,Male,46-55,Medium,Low,4,Mature & Balanced,0.9534883720930233,4 - Média
+51,44,50,Female,46-55,Medium,Low,4,Mature & Balanced,1.1363636363636365,4 - Média
+69,44,46,Male,56-70,Medium,Low,4,Mature & Balanced,1.0454545454545454,4 - Média
+27,46,51,Female,26-35,Medium,High,0,Young & Impulsive,1.108695652173913,3 - Média-Alta
+53,46,46,Male,46-55,Medium,Low,4,Mature & Balanced,1.0,4 - Média
+70,46,56,Male,56-70,Medium,High,4,Mature & Balanced,1.2173913043478262,4 - Média
+19,46,55,Male,18-25,Medium,High,0,Young & Impulsive,1.1956521739130435,3 - Média-Alta
+67,47,52,Female,56-70,Medium,High,4,Mature & Balanced,1.1063829787234043,4 - Média
+54,47,59,Female,46-55,Medium,High,4,Mature & Balanced,1.2553191489361701,4 - Média
+63,48,51,Male,56-70,Medium,High,4,Mature & Balanced,1.0625,4 - Média
+18,48,59,Male,18-25,Medium,High,0,Young & Impulsive,1.2291666666666667,3 - Média-Alta
+43,48,50,Female,36-45,Medium,Low,4,Mature & Balanced,1.0416666666666667,4 - Média
+68,48,48,Female,56-70,Medium,Low,4,Mature & Balanced,1.0,4 - Média
+19,48,59,Male,18-25,Medium,High,0,Young & Impulsive,1.2291666666666667,3 - Média-Alta
+32,48,47,Female,26-35,Medium,Low,0,Young & Impulsive,0.9791666666666666,3 - Média-Alta
+70,49,55,Male,56-70,Medium,High,4,Mature & Balanced,1.1224489795918366,4 - Média
+47,49,42,Female,46-55,Medium,Low,4,Mature & Balanced,0.8571428571428571,4 - Média
+60,50,49,Female,56-70,Medium,Low,4,Mature & Balanced,0.98,4 - Média
+60,50,56,Female,56-70,Medium,High,4,Mature & Balanced,1.12,4 - Média
+59,54,47,Male,56-70,Medium,Low,4,Mature & Balanced,0.8703703703703703,4 - Média
+26,54,54,Male,26-35,Medium,High,0,Young & Impulsive,1.0,3 - Média-Alta
+45,54,53,Female,36-45,Medium,High,4,Mature & Balanced,0.9814814814814815,4 - Média
+40,54,48,Male,36-45,Medium,Low,4,Mature & Balanced,0.8888888888888888,4 - Média
+23,54,52,Female,18-25,Medium,High,0,Young & Impulsive,0.9629629629629629,3 - Média-Alta
+49,54,42,Female,46-55,Medium,Low,4,Mature & Balanced,0.7777777777777778,4 - Média
+57,54,51,Male,56-70,Medium,High,4,Mature & Balanced,0.9444444444444444,4 - Média
+38,54,55,Male,36-45,Medium,High,0,Young & Impulsive,1.0185185185185186,3 - Média-Alta
+67,54,41,Male,56-70,Medium,Low,4,Mature & Balanced,0.7592592592592593,4 - Média
+46,54,44,Female,46-55,Medium,Low,4,Mature & Balanced,0.8148148148148148,4 - Média
+21,54,57,Female,18-25,Medium,High,0,Young & Impulsive,1.0555555555555556,3 - Média-Alta
+48,54,46,Male,46-55,Medium,Low,4,Mature & Balanced,0.8518518518518519,4 - Média
+55,57,58,Female,46-55,Medium,High,4,Mature & Balanced,1.0175438596491229,4 - Média
+22,57,55,Female,18-25,Medium,High,0,Young & Impulsive,0.9649122807017544,3 - Média-Alta
+34,58,60,Female,26-35,Medium,High,0,Young & Impulsive,1.0344827586206897,3 - Média-Alta
+50,58,46,Female,46-55,Medium,Low,4,Mature & Balanced,0.7931034482758621,4 - Média
+68,59,55,Female,56-70,Medium,High,4,Mature & Balanced,0.9322033898305084,4 - Média
+18,59,41,Male,18-25,Medium,Low,0,Young & Impulsive,0.6949152542372882,3 - Média-Alta
+48,60,49,Male,46-55,Medium,Low,4,Mature & Balanced,0.8166666666666667,4 - Média
+40,60,40,Female,36-45,Medium,Low,4,Mature & Balanced,0.6666666666666666,4 - Média
+32,60,42,Female,26-35,Medium,Low,0,Young & Impulsive,0.7,3 - Média-Alta
+24,60,52,Male,18-25,Medium,High,0,Young & Impulsive,0.8666666666666667,3 - Média-Alta
+47,60,47,Female,46-55,Medium,Low,4,Mature & Balanced,0.7833333333333333,4 - Média
+27,60,50,Female,26-35,Medium,Low,0,Young & Impulsive,0.8333333333333334,3 - Média-Alta
+48,61,42,Male,46-55,Medium,Low,4,Mature & Balanced,0.6885245901639344,4 - Média
+20,61,49,Male,18-25,Medium,Low,0,Young & Impulsive,0.8032786885245902,3 - Média-Alta
+23,62,41,Female,18-25,Medium,Low,0,Young & Impulsive,0.6612903225806451,3 - Média-Alta
+49,62,48,Female,46-55,Medium,Low,4,Mature & Balanced,0.7741935483870968,4 - Média
+67,62,59,Male,56-70,Medium,High,4,Mature & Balanced,0.9516129032258065,4 - Média
+26,62,55,Male,26-35,Medium,High,0,Young & Impulsive,0.8870967741935484,3 - Média-Alta
+49,62,56,Male,46-55,Medium,High,4,Mature & Balanced,0.9032258064516129,4 - Média
+21,62,42,Female,18-25,Medium,Low,0,Young & Impulsive,0.6774193548387096,3 - Média-Alta
+66,63,50,Female,56-70,Medium,Low,4,Mature & Balanced,0.7936507936507936,4 - Média
+54,63,46,Male,46-55,Medium,Low,4,Mature & Balanced,0.7301587301587301,4 - Média
+68,63,43,Male,56-70,Medium,Low,4,Mature & Balanced,0.6825396825396826,4 - Média
+66,63,48,Male,56-70,Medium,Low,4,Mature & Balanced,0.7619047619047619,4 - Média
+65,63,52,Male,56-70,Medium,High,4,Mature & Balanced,0.8253968253968254,4 - Média
+19,63,54,Female,18-25,Medium,High,0,Young & Impulsive,0.8571428571428571,3 - Média-Alta
+38,64,42,Female,36-45,Medium,Low,3,Untapped Potential,0.65625,1 - Muito Alta
+19,64,46,Male,18-25,Medium,Low,0,Young & Impulsive,0.71875,3 - Média-Alta
+18,65,48,Female,18-25,Medium,Low,0,Young & Impulsive,0.7384615384615385,3 - Média-Alta
+19,65,50,Female,18-25,Medium,Low,0,Young & Impulsive,0.7692307692307693,3 - Média-Alta
+63,65,43,Female,56-70,Medium,Low,4,Mature & Balanced,0.6615384615384615,4 - Média
+49,65,59,Female,46-55,Medium,High,4,Mature & Balanced,0.9076923076923077,4 - Média
+51,67,43,Female,46-55,Medium,Low,4,Mature & Balanced,0.6417910447761194,4 - Média
+50,67,57,Female,46-55,Medium,High,4,Mature & Balanced,0.8507462686567164,4 - Média
+27,67,56,Male,26-35,Medium,High,0,Young & Impulsive,0.835820895522388,3 - Média-Alta
+38,67,40,Female,36-45,Medium,Low,3,Untapped Potential,0.5970149253731343,1 - Muito Alta
+40,69,58,Female,36-45,Medium,High,1,Premium Customers,0.8405797101449275,2 - Alta
+39,69,91,Male,36-45,Medium,Very High,1,Premium Customers,1.318840579710145,2 - Alta
+23,70,29,Female,18-25,Medium,Low,3,Untapped Potential,0.4142857142857143,1 - Muito Alta
+31,70,77,Female,26-35,Medium,Very High,1,Premium Customers,1.1,2 - Alta
+43,71,35,Male,36-45,High,Low,3,Untapped Potential,0.49295774647887325,1 - Muito Alta
+40,71,95,Male,36-45,High,Very High,1,Premium Customers,1.3380281690140845,2 - Alta
+59,71,11,Male,56-70,High,Very Low,3,Untapped Potential,0.15492957746478872,1 - Muito Alta
+38,71,75,Male,36-45,High,High,1,Premium Customers,1.056338028169014,2 - Alta
+47,71,9,Male,46-55,High,Very Low,3,Untapped Potential,0.1267605633802817,1 - Muito Alta
+39,71,75,Male,36-45,High,High,1,Premium Customers,1.056338028169014,2 - Alta
+25,72,34,Female,18-25,High,Low,3,Untapped Potential,0.4722222222222222,1 - Muito Alta
+31,72,71,Female,26-35,High,High,1,Premium Customers,0.9861111111111112,2 - Alta
+20,73,5,Male,18-25,High,Very Low,3,Untapped Potential,0.0684931506849315,1 - Muito Alta
+29,73,88,Female,26-35,High,Very High,1,Premium Customers,1.2054794520547945,2 - Alta
+44,73,7,Female,36-45,High,Very Low,3,Untapped Potential,0.0958904109589041,1 - Muito Alta
+32,73,73,Male,26-35,High,High,1,Premium Customers,1.0,2 - Alta
+19,74,10,Male,18-25,High,Very Low,3,Untapped Potential,0.13513513513513514,1 - Muito Alta
+35,74,72,Female,26-35,High,High,1,Premium Customers,0.972972972972973,2 - Alta
+57,75,5,Female,56-70,High,Very Low,3,Untapped Potential,0.06666666666666667,1 - Muito Alta
+32,75,93,Male,26-35,High,Very High,1,Premium Customers,1.24,2 - Alta
+28,76,40,Female,26-35,High,Low,3,Untapped Potential,0.5263157894736842,1 - Muito Alta
+32,76,87,Female,26-35,High,Very High,1,Premium Customers,1.144736842105263,2 - Alta
+25,77,12,Male,18-25,High,Very Low,3,Untapped Potential,0.15584415584415584,1 - Muito Alta
+28,77,97,Male,26-35,High,Very High,1,Premium Customers,1.2597402597402598,2 - Alta
+48,77,36,Male,46-55,High,Low,3,Untapped Potential,0.4675324675324675,1 - Muito Alta
+32,77,74,Female,26-35,High,High,1,Premium Customers,0.961038961038961,2 - Alta
+34,78,22,Female,26-35,High,Very Low,3,Untapped Potential,0.28205128205128205,1 - Muito Alta
+34,78,90,Male,26-35,High,Very High,1,Premium Customers,1.1538461538461537,2 - Alta
+43,78,17,Male,36-45,High,Very Low,3,Untapped Potential,0.21794871794871795,1 - Muito Alta
+39,78,88,Male,36-45,High,Very High,1,Premium Customers,1.1282051282051282,2 - Alta
+44,78,20,Female,36-45,High,Very Low,3,Untapped Potential,0.2564102564102564,1 - Muito Alta
+38,78,76,Female,36-45,High,Very High,1,Premium Customers,0.9743589743589743,2 - Alta
+47,78,16,Female,46-55,High,Very Low,3,Untapped Potential,0.20512820512820512,1 - Muito Alta
+27,78,89,Female,26-35,High,Very High,1,Premium Customers,1.141025641025641,2 - Alta
+37,78,1,Male,36-45,High,Very Low,3,Untapped Potential,0.01282051282051282,1 - Muito Alta
+30,78,78,Female,26-35,High,Very High,1,Premium Customers,1.0,2 - Alta
+34,78,1,Male,26-35,High,Very Low,3,Untapped Potential,0.01282051282051282,1 - Muito Alta
+30,78,73,Female,26-35,High,High,1,Premium Customers,0.9358974358974359,2 - Alta
+56,79,35,Female,56-70,High,Low,4,Mature & Balanced,0.4430379746835443,4 - Média
+29,79,83,Female,26-35,High,Very High,1,Premium Customers,1.0506329113924051,2 - Alta
+19,81,5,Male,18-25,High,Very Low,3,Untapped Potential,0.06172839506172839,1 - Muito Alta
+31,81,93,Female,26-35,High,Very High,1,Premium Customers,1.1481481481481481,2 - Alta
+50,85,26,Male,46-55,High,Low,3,Untapped Potential,0.3058823529411765,1 - Muito Alta
+36,85,75,Female,36-45,High,High,1,Premium Customers,0.8823529411764706,2 - Alta
+42,86,20,Male,36-45,High,Very Low,3,Untapped Potential,0.23255813953488372,1 - Muito Alta
+33,86,95,Female,26-35,High,Very High,1,Premium Customers,1.1046511627906976,2 - Alta
+36,87,27,Female,36-45,High,Low,3,Untapped Potential,0.3103448275862069,1 - Muito Alta
+32,87,63,Male,26-35,High,High,1,Premium Customers,0.7241379310344828,2 - Alta
+40,87,13,Male,36-45,High,Very Low,3,Untapped Potential,0.14942528735632185,1 - Muito Alta
+28,87,75,Male,26-35,High,High,1,Premium Customers,0.8620689655172413,2 - Alta
+36,87,10,Male,36-45,High,Very Low,3,Untapped Potential,0.11494252873563218,1 - Muito Alta
+36,87,92,Male,36-45,High,Very High,1,Premium Customers,1.0574712643678161,2 - Alta
+52,88,13,Female,46-55,High,Very Low,3,Untapped Potential,0.14772727272727273,1 - Muito Alta
+30,88,86,Female,26-35,High,Very High,1,Premium Customers,0.9772727272727273,2 - Alta
+58,88,15,Male,56-70,High,Very Low,3,Untapped Potential,0.17045454545454544,1 - Muito Alta
+27,88,69,Male,26-35,High,High,1,Premium Customers,0.7840909090909091,2 - Alta
+59,93,14,Male,56-70,High,Very Low,3,Untapped Potential,0.15053763440860216,1 - Muito Alta
+35,93,90,Male,26-35,High,Very High,1,Premium Customers,0.967741935483871,2 - Alta
+37,97,32,Female,36-45,High,Low,3,Untapped Potential,0.32989690721649484,1 - Muito Alta
+32,97,86,Female,26-35,High,Very High,1,Premium Customers,0.8865979381443299,2 - Alta
+46,98,15,Male,46-55,High,Very Low,3,Untapped Potential,0.15306122448979592,1 - Muito Alta
+29,98,88,Female,26-35,High,Very High,1,Premium Customers,0.8979591836734694,2 - Alta
+41,99,39,Female,36-45,High,Low,3,Untapped Potential,0.3939393939393939,1 - Muito Alta
+30,99,97,Male,26-35,High,Very High,1,Premium Customers,0.9797979797979798,2 - Alta
+54,101,24,Female,46-55,Very High,Very Low,3,Untapped Potential,0.2376237623762376,1 - Muito Alta
+28,101,68,Male,26-35,Very High,High,1,Premium Customers,0.6732673267326733,2 - Alta
+41,103,17,Female,36-45,Very High,Very Low,3,Untapped Potential,0.1650485436893204,1 - Muito Alta
+36,103,85,Female,36-45,Very High,Very High,1,Premium Customers,0.8252427184466019,2 - Alta
+34,103,23,Female,26-35,Very High,Very Low,3,Untapped Potential,0.22330097087378642,1 - Muito Alta
+32,103,69,Female,26-35,Very High,High,1,Premium Customers,0.6699029126213593,2 - Alta
+33,113,8,Male,26-35,Very High,Very Low,3,Untapped Potential,0.07079646017699115,1 - Muito Alta
+38,113,91,Female,36-45,Very High,Very High,1,Premium Customers,0.8053097345132744,2 - Alta
+47,120,16,Female,46-55,Very High,Very Low,3,Untapped Potential,0.13333333333333333,1 - Muito Alta
+35,120,79,Female,26-35,Very High,Very High,1,Premium Customers,0.6583333333333333,2 - Alta
+45,126,28,Female,36-45,Very High,Low,3,Untapped Potential,0.2222222222222222,1 - Muito Alta
+32,126,74,Male,26-35,Very High,High,1,Premium Customers,0.5873015873015873,2 - Alta
